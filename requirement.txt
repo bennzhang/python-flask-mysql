@@ -1,0 +1,5 @@
+simplejson
+pymysql
+Flask==0.10.1
+flask-cors
+gunicorn==19.6.0
