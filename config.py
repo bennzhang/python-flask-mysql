@@ -1,5 +1,5 @@
 '''
-  This is the config file which include all ccnfiguation info here
+  This is the config file which includes all ccnfiguation info here
 '''
 
 _DB_CONF = {
